@@ -1,0 +1,1 @@
+all of you was able to explain your code and answer all the questions I asked. You already knew how recursion worked and I don't have to explain. The only tips I have to give you is that remember to free your arrays when it's not needed anymore otherwise you'll get leaks which are really bad, maybe try to name your functions and variables in base what they do
